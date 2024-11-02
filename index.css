@@ -1,0 +1,39 @@
+.card{
+    margin: 3%;
+}
+
+@media(max-width: 480px) {
+    .media{
+        display: block !important;
+    }
+}
+.ci{
+    background-image: url("https://thumbs.dreamstime.com/b/cup-tea-12785974.jpg");
+    padding: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.m{
+    margin: 10%;
+}
+.youtube{
+    padding: 3%;
+}
+
+.book{
+    background-color: darkgrey;
+    padding: 3%;
+}
+.img1{
+    width: 500px;
+}
+.foot{
+    position: relative;
+    left: 35%;
+}
+
+@media(max-width:460px){
+  .navbar{
+    width: 100%;
+  }
+}
